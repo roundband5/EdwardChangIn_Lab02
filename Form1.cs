@@ -35,8 +35,7 @@ namespace EdwardChangIn_Lab02
         private void btnDisplay_Click(object sender, EventArgs e)
         {
             string carMake = txtCarMake.Text;
-            double price = double.Parse(txtPrice.Text);
-            string carType = cboCarType.Text;
+            
             txtOutput.Text = "The car's make is " + carMake+"." + "\r\n Price is: $"+ price+ "\r\n The Car's Type is a "+ carType+".";
         }
 
