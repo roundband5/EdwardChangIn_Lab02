@@ -1,0 +1,10 @@
+W:\CNIT155\In_Labs\EdwardChang InLab02\EdwardChangIn_Lab02\EdwardChangIn_Lab02\bin\Debug\EdwardChangIn_Lab02.exe.config
+W:\CNIT155\In_Labs\EdwardChang InLab02\EdwardChangIn_Lab02\EdwardChangIn_Lab02\bin\Debug\EdwardChangIn_Lab02.exe
+W:\CNIT155\In_Labs\EdwardChang InLab02\EdwardChangIn_Lab02\EdwardChangIn_Lab02\bin\Debug\EdwardChangIn_Lab02.pdb
+W:\CNIT155\In_Labs\EdwardChang InLab02\EdwardChangIn_Lab02\EdwardChangIn_Lab02\obj\Debug\EdwardChangIn_Lab02.csprojAssemblyReference.cache
+W:\CNIT155\In_Labs\EdwardChang InLab02\EdwardChangIn_Lab02\EdwardChangIn_Lab02\obj\Debug\EdwardChangIn_Lab02.Form1.resources
+W:\CNIT155\In_Labs\EdwardChang InLab02\EdwardChangIn_Lab02\EdwardChangIn_Lab02\obj\Debug\EdwardChangIn_Lab02.Properties.Resources.resources
+W:\CNIT155\In_Labs\EdwardChang InLab02\EdwardChangIn_Lab02\EdwardChangIn_Lab02\obj\Debug\EdwardChangIn_Lab02.csproj.GenerateResource.cache
+W:\CNIT155\In_Labs\EdwardChang InLab02\EdwardChangIn_Lab02\EdwardChangIn_Lab02\obj\Debug\EdwardChangIn_Lab02.csproj.CoreCompileInputs.cache
+W:\CNIT155\In_Labs\EdwardChang InLab02\EdwardChangIn_Lab02\EdwardChangIn_Lab02\obj\Debug\EdwardChangIn_Lab02.exe
+W:\CNIT155\In_Labs\EdwardChang InLab02\EdwardChangIn_Lab02\EdwardChangIn_Lab02\obj\Debug\EdwardChangIn_Lab02.pdb
